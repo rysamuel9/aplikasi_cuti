@@ -15,7 +15,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- <link rel="shortcut icon" href="assets/ico/favicon.png"> -->
 
-    <title> Karyawan Scola LMS</title>
+    <title> Karyawan di Scola LMS</title>
 
     <!-- Icons -->
     <link href="css/font-awesome.min.css" rel="stylesheet">
